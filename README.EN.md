@@ -288,7 +288,7 @@ TODO:
 - Quickly put a straw into a shot and drink it like a B-52 shot
 ```
 
-Cool guys in movies chew a gum. Don't forget take one in the space.
+Cool guys chew a gum in the movies. Don't forget take at least one into space.
 
 ![Rocket Science](https://raw.githubusercontent.com/the-teacher/Cocktails-for-programmers-v2.0/master/images/rocket_science_1.jpg "Rocket Science")
 
