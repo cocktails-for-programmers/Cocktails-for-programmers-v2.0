@@ -43,25 +43,25 @@ TODO:
 
 ### The BUG
 
-**I:** Eugeniy, bug is something that prevents programm or computer from working fine. We need a cocktail somehow related to that.
+**I:** Eugeniy, a bug is something preventing a program or a computer from working fine. We need a cocktail somehow related to this.
 
-**E:** Fine. Specially for that I have a jar with a bug.
-Berries in the cocktail will look like bugs. And you have to catch them all during drinking the cocktail.
+**E:** All right. Especially for this there is a jar with a bug.
+The berries in a cocktail will look like bugs. You have to catch them all while drinking the cocktail.
 
 Ingredients:
 
 ```
-- Bilberry or any other berries 10 pcs
-- Cold fruit tee 100 ml
-- Bilberry syrup 30 ml
-- Lemon fresh 20 ml
-- Rom or Gin 30 ml
+- 10 pcs Elderberry or other berries
+- 100 mL Cold Fruit Tea
+- 30 mL Elderberry Syrup
+- 20 mL  Fresh Lemon Juice
+- 30 mL Rum or Gin
 ```
 
 TODO:
 
 ```
-Mix all ingredients together into a glass with ice
+Add all the ingredients into a glass filled with ice and mix
 ```
 
 ![The BUG](https://raw.githubusercontent.com/the-teacher/Cocktails-for-programmers-v2.0/master/images/bug_1.jpg "The BUG")
@@ -70,26 +70,26 @@ Mix all ingredients together into a glass with ice
 
 ### RUST
 
-**I:** Could we make something for developers who use RUST programming language?
+**I:** Could we make a drink for developers who use RUST programming language?
 
-**E:** I think, so. By the way, there is the classic "rusty" cockail
+**E:** I think yes. By the way, there is a classic "rusty" cocktail.
 
 Ingredients:
 
 ```
-- Wisky 40 ml
-- Drambuie liqueur 30 ml
-- Cinnamon syrup 10 ml
+- 40 mL Whisky
+- 30 ml Drambuie Liqueur
+- 10 mL Cinnamon Syrup
 ```
 
 TODO:
 
 ```
 - Fill a glass with ice cubes
-- Add wiskey
-- Add liqueur
-- Add syrup
-- Mix and decorate with a cinnamon stick
+- Add Whisky
+- Add Liqueur
+- Add Syrup
+- Shake and garnish with a cinnamon stick
 ```
 
 ![RUST](https://raw.githubusercontent.com/the-teacher/Cocktails-for-programmers-v2.0/master/images/rust_1.jpg "RUST")
