@@ -16,27 +16,27 @@ No food bloggers, bartenders or programmers were harmed in the making of this pr
 
 ### JavaScript
 
-**Ilya:** Eugeniy, JavaScript is very popular programming language, a cocktail for JavaScript developers should be based on coffee.
-Could we add some vanilla and something related to perfomance? What do you think?
+**Ilya:** Eugeniy, JavaScript is one of the most popular programming languages on the Web, a cocktail for JavaScript developers should be coffee-based.
+What do you think if we add vanilla and some ingredients related to the performance?
 
-**Eugeniy:** Yes. Coffee liquor, vanilla vodka and energy drink. I think it would be cool.
+**Eugeniy:** Ok. Coffee Liqueur, Vanilla Vodka and Energy Drink. I think it would be cool.
 
 Ingredients:
 
 ```
-- Coffee liqueur 20ml
-- Vanilla vodka 40 ml
-- Energy drink 50 ml
+- 20 mL Coffee Liqueur
+- 40 mL Vanilla Vodka
+- 50 mL Energy Drink
 ```
 
 TODO:
 
 ```
-- Put the liquor into a cold glass
-- Fill the glass with crashed ice upto the top
-- Add vanilla vodka
-- Mix all together
-- Add energy drink
+- Pour liquor into an iced-cold glass
+- Fill the glass with crushed ice up to the top
+- Add Vanilla Vodka
+- Thoroughly shake all the ingredients
+- Add Energy Drink
 ```
 
 ![JavaScript/NodeJS](https://raw.githubusercontent.com/the-teacher/Cocktails-for-programmers-v2.0/master/images/java_script_1.jpg "JavaScript/NodeJS")
