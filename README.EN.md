@@ -2,17 +2,17 @@
 
 ![Cocktails for programmers 2.0](https://raw.githubusercontent.com/the-teacher/Cocktails-for-programmers-v2.0/master/images/v20.jpg "Cocktails for programmers 2.0")
 
-The programmer's day is celebrated on the 256th day each year. Usually it's the 12th of september. This year on 12th of september we (Ilya and Anna) met our bartender friend Eugeniy at Grizzly bar on Nevsky Prospekt in Saint Petersburg.
-Eugeniy promised us help to do new version of our project **Cocktails for programmers**. The first part of this project you can find [HERE](https://github.com/cocktails-for-programmers/cocktails_for_programmers). Today we offer you to see what we did this time.
+Programmers’ day is celebrated on the 256th day of the year. It usually falls on September 12th. This year on September 12th we (Ilya and Anna) met with our bartender friend Eugeniy at Grizzly bar on Nevsky Prospekt in Saint Petersburg.
+Eugeniy has promised to help us with a new version of our project **Cocktails for programmers**. The first version of it you can find [HERE](https://github.com/cocktails-for-programmers/cocktails_for_programmers). Today we offer you to see what we did this time.
 
 <habracut/>
 
 ### Warning
 
-This project is not commercial, it is just a report about a private event. All information, resources and brands which your can come across in the text or in the photos are presented just for informational and demonstrative purposes. They don't provide any direct of hidden commercial.
-Also the authors of the project warn you about harm of the alcohol and they don't bear any responsibility for any use of presented infomation.
-All recipies are for information only.
-No one food-blogger, bartender of programmer didn't have any hurts during this project.
+The project is not commercial. It is just a report of a private event. All the information, resources or brand names found in the text or appearing in the photos are provided for information and demonstration purposes only. Any types of direct or indirect marketing are not assumed.
+The authors of the project warn about the damage alcohol does and don't take any responsibility for a result of the use of any content posted.
+All the cocktail recipes are for information only.
+No food bloggers, bartenders or programmers were harmed in the making of this project.
 
 ### JavaScript
 
