@@ -207,85 +207,85 @@ Without basil
 
 ### SHELL aka Terminal
 
-**I:** Programmers spend a lot of time in terminal. Could we invent something on the marine theme or something related to shells?
+**I:** Programmers spend lots of time in a terminal. Could we invent a marine themed drink or a drink related to seashells?
 
-**E:** We will do a marine cocktail for people who need some rest.
-Shot inside the glass opens like a shell when you drink it. Are you ready to a sea journey?
+**E:** We will make a marine themed cocktail for people who need rest.
+A shot inside a glass opens like a shell when you drink it. Are you ready for a sea voyage?
 
 Ingredients:
 
 ```
-- Blue curacao liqueur  20 ml
-- Pinapple juice 50 ml
-- Lemon fresh 10 ml
-- Sugar syrup 10 ml
-- liqueur Jagermeister 40 ml
+- 20 mL Blue Curacao Liqueur
+- 50 mL Pineapple Juice
+- 10 mL Fresh Lemon Juice
+- 10 mL Sugar Syrup
+- 10 mL Jägermeister Liqueur
 ```
 
 TODO:
 
 ```
-- Turn over Jagermeister shot into a glass
-- Shake juice, lemon fresh, syrup separately
-- Strain into a glass with the shot
-- Add liqueur on the top
+- Turn over a Jägermeister shot into a glass
+- Shake Pineapple Juice, Fresh Lemon Juice and Syrup separately
+- Strain into the glass with the shot
+- Add Blue Curacao Liqueur on top
 ```
 
 ![SHELL](https://raw.githubusercontent.com/the-teacher/Cocktails-for-programmers-v2.0/master/images/shell_1.jpg "SHELL")
 
 ### A/B Test
 
-**I:** Programmers use A/B tests to compare something. This cocktail should be based on the contrast.
+**I:** Programmers use A/B tests to compare something. This cocktail should be based on contrast.
 
 **E:** No problem.
 
-Cocktail's contrast: sour, sweet, fresh, spicy, salty
+Cocktail contrasts: sour, sweet, fresh, spicy, salty
 
 Ingredients:
 
 ```
-- Fresh cucumber 10 gr
-- Drambuie honey liqueur 30 ml
-- Lemon fresh 10 ml
+- 10 gr Fresh Cucumber
+- 30 mL Drambuie Honey Liqueur
+- 10 mL Fresh Lemon Juice
 - Salt
-- Oyster sauce 3 drops
-- Tomato juice 100 ml
-- Tabasco sauce 1 drop
+- 3 drops Oyster Sauce
+- 100 mL Tomato Juice
+- 1 drop Tabasco Sauce
 ```
 
 TODO:
 
 ```
-- Put some cucumber slices into a glass
-- Put liqueur
+- Put cucumber slices into a glass
+- Pour Drambuie Honey Liqueur
 - Fill the glass with ice cubes
 - Add the rest of ingredients
-- Mix well
+- Mix thoroughly
 ```
 
 ![A/B test](https://raw.githubusercontent.com/the-teacher/Cocktails-for-programmers-v2.0/master/images/ab_1.jpg "A/B test")
 
 ### Rocket Science
 
-**I:** Programmers do and move "Rocket Science" ahead everyday, but simple things hide behind complex things often.
+**I:** Programmers do and move "Rocket Science" ahead every day, but simple things often hide behind complex things.
 
-**E:** Let's make very simple shot but with fire. Such few shots and you fly into the space.
+**E:** Let's make a very simple shot but with fire. Several shots and you fly into space.
 
 Ingredients:
 
 ```
-- Sweet syrup (grenadin, cherry, strawberry etc.) 30 ml
-- White vermouth 30 ml
-- Vodka or tequila 30 ml
-- Absinthe 10 ml
+- 30 mL Sweet Syrup (Grenadin, Cherry, Strawberry etc.)
+- 30 mL White Vermouth
+- 30 mL Vodka or Tequila
+- 10 mL Absinthe
 ```
 
 TODO:
 
 ```
-- Put all the ingredients in layers
-- Burn absinthe
-- Put straw into shot quickly and drink as B-52
+- Pour all the ingredients layer-by-layer
+- Burn Absinthe
+- Quickly put a straw into a shot and drink it like a B-52 shot
 ```
 
 Cool guys in movies chew a gum. Don't forget take one in the space.
@@ -301,16 +301,16 @@ Cool guys in movies chew a gum. Don't forget take one in the space.
 
 ### Acknowledgements
 
-We thank management team of [Grizzly Bar](https://vk.com/grizzlybar_spb) for support, place for photo-set and ingredients for cocktails.
+We thank a management team of [Grizzly Bar](https://vk.com/grizzlybar_spb) for their support, providing a place for our photoset and cocktail ingredients.
 
 ### COPY/PASTE
 
-You can freely copy, change and distribute information and photos of this project in case if you keep names of the authors and active link to the [original project] (https://github.com/the-teacher/Cocktails-for-programmers-v2.0).
+Freely copy, change and distribute any information or photos from the project only if you keep authors’ names and an active link to the [original project](https://github.com/the-teacher/Cocktails-for-programmers-v2.0).
 
-Also you can send a request to the authors to get original photos for any publishing purposes.
+Do not hesitate to send your requests to the authors to get original photos for any publishing purposes.
 
 ### HOOK_BEFORE(:EXIT)
 
-Pull requests with amendments and translations in other languages are welcome as usual.
+Pull requests with amendments or translations into other languages are welcome as usual.
 
 ### process.exit()
