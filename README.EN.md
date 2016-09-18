@@ -2,7 +2,7 @@
 
 ![Cocktails for programmers 2.0](https://raw.githubusercontent.com/the-teacher/Cocktails-for-programmers-v2.0/master/images/v20.jpg "Cocktails for programmers 2.0")
 
-Programmers’ day is celebrated on the 256th day of the year. It usually falls on September 12th. This year on September 12th we (Ilya and Anna) met with our bartender friend Eugeniy at Grizzly bar on Nevsky Prospekt in Saint Petersburg.
+Programmers’ day is celebrated on the 256th day of the year. It usually falls on September 13th (September 12th in Leap year). This year on September 12th we (Ilya and Anna) met with our bartender friend Eugeniy at Grizzly bar on Nevsky Prospekt in Saint Petersburg.
 Eugeniy has promised to help us with a new version of our project **Cocktails for programmers**. The first version of it you can find [HERE](https://github.com/cocktails-for-programmers/cocktails_for_programmers). Today we offer you to see what we did this time.
 
 <habracut/>
@@ -297,7 +297,7 @@ Cool guys chew a gum in the movies. Don't forget take at least one into space.
 - [Ilya Zykin](https://github.com/the-teacher) - idea
 - [Anna Nechaeva (food-blog open-cook.ru)](https://open-cook.ru) - photos
 - [Eugeniy Tarasov](https://vk.com/evgenytarasov) - cooking and mixing
-- [Anton Shatalov](https://vk.com/shatalov.anton) - english version assistance
+- [Anton Shatalov](https://vk.com/shatalov.anton) - English version assistance
 
 ### Acknowledgements
 
