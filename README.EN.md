@@ -96,51 +96,51 @@ TODO:
 
 ### PUSH/PULL
 
-**I:** **push** & **pull** are commands which help to send and receive programm's source code changes. Do you have any ideas?
+**I:** **push** & **pull** are commands which help to send and receive changes in a program source code. Do you have any ideas?
 
-**E:** Sure. It will be shot with whipped cream on the top.
+**E:** Sure. It will be a shot garnished with whipped cream on top.
 
-To drink it you have to **push** straw through whipped cream and **pull** the content of the shot.
+To drink the cocktail you have to **push** a straw through whipped cream and **pull** the content of the shot.
 
 Ingredients:
 
 ```
-- Coffee liqueur 50 ml
-- Blackberry liqueur 50 ml
-- Whipped cream 50 гр
+- 50 mL Coffee Liqueur
+- 50 mL Blackberry Liqueur
+- 50 gr Whipped Cream
 ```
 
 TODO:
 
 ```
-- Put the liqueurs in layers
-- Decorate with whiped cream
-- Powder with cinnamon
+- Pour all the liqueurs layer-by-layer
+- Garnish with whipped cream
+- Dust with cinnamon powder
 ```
 
 ![PUSH/PULL](https://raw.githubusercontent.com/the-teacher/Cocktails-for-programmers-v2.0/master/images/push_pull_1.jpg "PUSH/PULL")
 
 ### Easter Egg
 
-**I:** _Easter egg_ is a some unexpactable secret in a programm which should surprise a user. What will we do in this case?
+**I:** _Easter egg_ is an unexpected secret in a program which should surprise a user. What can we make in this case?
 
-**E:** We will cook a cocktail with egg-white and ginger. Unexpectable combination, isn't it?
+**E:** We will make a cocktail with an egg-white and ginger. It is an unexpected combination, isn't it?
 
 Ingredients:
 
 ```
-- Ginger mix (sugar syrup with ginger fresh 1:1) 10 ml
-- Brandy 40 ml
-- Becherovka Бехеровка 20 ml
-- Lemon fresh 20 ml
-- 1 egg-white
+- 10 mL Ginger Mix (Sugar Syrup with Ginger Fresh 1:1)
+- 40 mL Brandy
+- 20 mL Becherovka
+- 20 ml Fresh Lemon Juice
+- 1 pc Egg White
 ```
 
 TODO:
 
 ```
-- Mix all ingredients in a shaker
-- Shake without ice so long as possible
+- Shake all the ingredients
+- Thoroughly shake without ice
 - Add ice and keep on shaking
 - Strain into a glass
 ```
@@ -151,49 +151,49 @@ TODO:
 
 **I:** We just need a safe cocktail. Very safe.
 
-**E:** Let's make non-alcohol cocktail for people who prefer not to do risk.
+**E:** Let's make a non-alcoholic cocktail for people who prefer not to do risk.
 
 Ingredients:
 
 ```
-- Strawberry 4 pcs
-- Grapefruit juice 100 ml
-- Strawberry syrup 30 ml
+- 4 pcs  Strawberry
+- 100 mL Grapefruit Juice
+- 30 mL Strawberry Syrup
 ```
 
 TODO:
 
 ```
-- Press the berries in a shaker
-- Add juice and syrup
-- Shake and put drink into a glass
-- Decorate with a strawberry
+- Squash berries in a shaker
+- Pour Grapefruit Juice and Strawberry Syrup
+- Thoroughly shake and pour into a glass
+- Garnish with a strawberry
 ```
 
 ![SSL/SSH](https://raw.githubusercontent.com/the-teacher/Cocktails-for-programmers-v2.0/master/images/ssl_1.jpg "SSL/SSH")
 
 ### SWIFT shot
 
-**I:** SWIFT is a programming language form Apple. Bluepint and apple are my associasions.
+**I:** SWIFT is a programming language from Apple. My associations are a blueprint and an apple.
 
-**E:** Fine. Let's make it!
+**E:**All right. Let's make it!
 
 Ingredients:
 
 ```
-- Fresh basil 8-9 leaves
-- Apple juice 60 ml
-- Blue curacao liqueur 15 ml
-- Honey 20 ml
-- Gin 40 ml
+- 8-9 leaves Fresh Basil
+- 60 mL Apple Juice
+- 15 mL Blue Curacao Liqueur
+- 20 mL Honey
+- 40 mL Gin
 ```
 
 TODO:
 
 ```
-- Press the basil leaves in a shaker
-- Put all the ingredients
-- Add some ice and shake as long as possible
+- Crush basil leaves in a shaker
+- Shake all the ingredients
+- Add ice and shake thoroughly
 - Strain in shots
 ```
 
